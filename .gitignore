@@ -22,3 +22,8 @@
 /server/libraries/
 /server/logs/
 /.idea/
+/server/plugins/WorldGuard/worlds/
+/server/plugins/WorldGuard/cache/
+/server/plugins/Multiverse-Inventories/groups/
+/server/plugins/Multiverse-Inventories/players/
+/server/plugins/Multiverse-Inventories/worlds/
